@@ -1,0 +1,22 @@
+.arrow{
+    margin-top: 15px;
+    padding-right: 30px;
+    order: 1;
+}
+.favourite{
+    margin-top: 15px;
+    padding-right: 15px;
+    order: 2;
+}
+.menu {
+    margin-right: 5px;
+    display: flex;
+}
+.logoutButton {
+    margin-top: 8px;
+    height: 35px;
+    width: 140px;
+    font-size: 18px;
+    border: 1px solid;
+    order: 3;
+}

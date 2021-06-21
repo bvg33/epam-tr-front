@@ -1,0 +1,50 @@
+.register{
+    display: flex;
+    border: 1px solid;
+    flex-flow: column;
+    margin-top: 200px;
+    margin-left: 500px;
+    width: 500px;
+}
+.login{
+    height: 50px;
+    margin-top: 100px;
+    margin-left: 40px;
+    margin-right: 100px;
+    font-size: 35px;
+}
+.password{
+    font-size: 35px;
+    height: 50px;
+    margin: 20px 40px 20px;
+}
+.repeatPassword{
+    font-size: 35px;
+    height: 50px;
+    margin: 0px 40px 20px;
+}
+.registerButton{
+    margin-bottom: 10px;
+    margin-left: 55px;
+    width: 200px;
+    height: 45px;
+    background-color: gray;
+}
+.epamImage{
+    position: absolute;
+    top: 210px;
+    left: 655px;
+}
+.buttons{
+    display: flex;
+}
+.cancelButton{
+    width: 200px;
+    height: 45px;
+    background-color: gray;
+    margin-left: 10px;
+}
+.message{
+    margin-left: 230px;
+    color: red;
+}

@@ -1,0 +1,7 @@
+.allFiles{
+    display: inline-block;
+}
+.fileBlock {
+    columns:2;
+    margin-top: 50px;
+}

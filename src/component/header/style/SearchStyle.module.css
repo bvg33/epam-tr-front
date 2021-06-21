@@ -1,0 +1,22 @@
+.search {
+    flex: 2;
+    display: flex;
+}
+.searchField{
+    width: 500px;
+    height: 35px;
+    margin-top: 7px;
+    font-size: 25px;
+}
+.searchButton{
+    height: 35px;
+    width: 130px;
+    font-size: 25px;
+    margin-top: 7px;
+    display: flex;
+}
+.searchIcon{
+    flex: 1;
+    padding-top: 5px;
+    padding-left: 5px;
+}
